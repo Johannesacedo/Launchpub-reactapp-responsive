@@ -1,0 +1,101 @@
+:root { 
+  --black-haze: #f7f7f7;
+  --cadet-blue: #acacc3;
+  --cerulean: #27aadf;
+  --dove-gray: #707070;
+  --haiti: #151634;
+  --mountain-mist: #9b9696;
+  --plum: #7c277c50;
+  --white: #fdffff;
+ 
+  --font-size-l: 26px;
+  --font-size-m: 25px;
+  --font-size-s: 16px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 40px;
+  --font-size-xxxl: 45px;
+  --font-size-xxxxl: 65px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+.bodytext {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.montserrat-bold-mountain-mist-25px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-bold-black-haze-35px {
+  color: var(--black-haze);
+  font-family: var(--font-family-montserrat);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-medium-cadet-blue-25px {
+  color: var(--cadet-blue);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+}
+
+.montserrat-extra-bold-cadet-blue-25px {
+  color: var(--cadet-blue);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.montserrat-extra-bold-black-haze-40px {
+  color: var(--black-haze);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.montserrat-semi-bold-cerulean-26px {
+  color: var(--cerulean);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+
+.border-5px-plum {
+  border: 5px solid var(--plum);
+}
+
+.border-10px-cerulean {
+  border: 10px solid var(--cerulean);
+}

@@ -1,0 +1,870 @@
+/* screen - react-page */
+
+.react-page {
+  align-items: center;
+  background-color: var(--haiti);
+  display: flex;
+  flex-direction: column;
+  height: 1879px;
+  overflow: hidden;
+  padding: 64.8px 0;
+  width: 1920px;
+}
+
+.react-page .launch-pub_logo {
+  height: 95px;
+  object-fit: cover;
+  width: 468px;
+}
+
+.react-page .overlap-group5 {
+  align-self: flex-start;
+  height: 1235px;
+  margin-top: 56px;
+  position: relative;
+  width: 2174px;
+}
+
+.react-page .a_logo {
+  height: 972px;
+  left: 1202px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 972px;
+}
+
+.react-page .join-the-genesis-syndicate-today {
+  color: var(--cerulean);
+  font-family: var(--font-family-montserrat);
+  font-size: 50px;
+  font-weight: 700;
+  height: 68px;
+  left: 373px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 1171px;
+}
+
+.react-page .membership-to-this-e {
+  height: 67px;
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-align: center;
+  top: 78px;
+  white-space: nowrap;
+  width: 1386px;
+}
+
+.react-page .item-01 {
+  align-items: flex-start;
+  display: flex;
+  height: 855px;
+  justify-content: flex-end;
+  left: 299px;
+  min-width: 1316px;
+  position: absolute;
+  top: 380px;
+}
+
+.react-page .preview {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 855px;
+  width: 682px;
+}
+
+.react-page .overlap-group-2 {
+  border-radius: 10px;
+  height: 734px;
+  margin-left: 0;
+  position: relative;
+  width: 680px;
+}
+
+.react-page .unflipped-box-1 {
+  background: linear-gradient(119.95deg, #340e42 15.45%, #bf3fbf 46.46%, #ad3aad 70.26%, #340e42 103.06%);
+  border-radius: 10px;
+  display: flex;
+  height: 734px;
+  left: 0;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.react-page .rectangle-172-1 {
+  background: linear-gradient(3.62deg, rgba(6, 8, 52, 0.76) -55.97%, rgba(40, 12, 56, 0.76) 114.29%);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  flex: 1;
+  margin-bottom: -2.5px;
+  margin-left: -2.5px;
+  margin-right: -2.5px;
+  margin-top: -2.5px;
+  opacity: 0.76;
+  width: 685px;
+}
+
+.react-page .image-3 {
+  height: 565px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 565px;
+}
+
+.react-page .likes {
+  display: flex;
+  height: 41px;
+  justify-content: space-between;
+  left: 271px;
+  position: absolute;
+  top: 650px;
+  width: 167px;
+}
+
+.react-page .icon-heart {
+  margin-bottom: 0.4px;
+  margin-left: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 43.97px;
+}
+
+.react-page .number {
+  -webkit-text-stroke: 1px transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -7px;
+  margin-right: -2.0px;
+  margin-top: 6.1px;
+  width: 104px;
+}
+
+.react-page .views {
+  display: flex;
+  height: 41px;
+  justify-content: space-between;
+  left: 451px;
+  position: absolute;
+  top: 650px;
+  width: 170px;
+}
+
+.react-page .icon-feather-eye {
+  align-items: flex-start;
+  background-image: url(./img/path-150-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 0.4px;
+  min-width: 55.98px;
+  padding: 8.1px 15.7px;
+}
+
+.react-page .path-151 {
+  height: 25px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.react-page .number-1 {
+  -webkit-text-stroke: 1px transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -7px;
+  margin-right: -2.0px;
+  margin-top: 6.1px;
+  width: 95px;
+}
+
+.react-page .text-1 {
+  -webkit-text-stroke: 1px transparent;
+  color: #ad3aad;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 42px;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 656px;
+  width: 132px;
+}
+
+.react-page .rotating-card-preview {
+  -webkit-text-stroke: 1px transparent;
+  color: white;
+  font-family: var(--font-family-montserrat);
+  font-size: 20px;
+  font-weight: 300;
+  height: 54px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 549px;
+  width: 494px;
+}
+
+.react-page .item-title-here {
+  -webkit-text-stroke: 1px transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 0;
+  margin-top: 58px;
+  text-align: center;
+  width: 682px;
+}
+
+.react-page .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 43px;
+  min-height: 734px;
+  width: 599px;
+}
+
+.react-page .nft-title {
+  height: 122px;
+  margin-left: 8.0px;
+  position: relative;
+  width: 591px;
+}
+
+.react-page .overlap-group3 {
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 570px;
+}
+
+.react-page .mint-nft {
+  -webkit-text-stroke: 1px transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 72px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 570px;
+}
+
+.react-page .text-6 {
+  -webkit-text-stroke: 1px transparent;
+  color: #ad3aad;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 54px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 68px;
+  width: 139px;
+}
+
+.react-page .nfts {
+  -webkit-text-stroke: 1px transparent;
+  color: var(--black-haze);
+  font-weight: 500;
+  height: 32px;
+  left: 154px;
+  line-height: 30px;
+  position: absolute;
+  top: 80px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.react-page .balance {
+  display: flex;
+  flex-direction: column;
+  height: 61px;
+  justify-content: flex-end;
+  margin-left: 1.9px;
+  margin-top: 52px;
+  width: 586px;
+}
+
+.react-page .balance-1 {
+  -webkit-text-stroke: 1px transparent;
+  height: 50.61px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: 6.5px;
+  margin-top: 2.5px;
+  width: 202.46px;
+}
+
+.react-page .line-1 {
+  flex: 1;
+  height: 3px;
+  margin-bottom: -1.5px;
+  margin-left: 0.5px;
+  margin-right: 0;
+  max-height: 3px;
+  object-fit: cover;
+}
+
+.react-page .amount {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.9px;
+  margin-top: 38px;
+  min-height: 71px;
+  width: 586px;
+}
+
+.react-page .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 63px;
+  min-width: 586px;
+}
+
+.react-page .amount-1 {
+  -webkit-text-stroke: 1px transparent;
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 30px;
+  width: 202px;
+}
+
+.react-page .group-273 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  height: 58px;
+  margin-left: 58px;
+  min-width: 157px;
+}
+
+.react-page .text-2 {
+  -webkit-text-stroke: 1px transparent;
+  height: 60px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -7.0px;
+  width: 28px;
+}
+
+.react-page .number-2 {
+  -webkit-text-stroke: 1px transparent;
+  height: 60px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -7.0px;
+  margin-left: 30px;
+  width: 28px;
+}
+
+.react-page .text-3 {
+  -webkit-text-stroke: 1px transparent;
+  height: 60px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -7.0px;
+  margin-left: 43px;
+  width: 28px;
+}
+
+.react-page .name {
+  -webkit-text-stroke: 1px transparent;
+  height: 50px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: 0;
+  margin-left: 54px;
+  text-align: right;
+  width: 115px;
+}
+
+.react-page .line-1-1 {
+  height: 3px;
+  margin-left: 0.48px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 583px;
+}
+
+.react-page .total {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.9px;
+  margin-top: 46px;
+  min-height: 71px;
+  width: 586px;
+}
+
+.react-page .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  min-width: 586px;
+}
+
+.react-page .total-1 {
+  -webkit-text-stroke: 1px transparent;
+  height: 51px;
+  letter-spacing: 0;
+  line-height: 30px;
+  width: 202px;
+}
+
+.react-page .text-4 {
+  -webkit-text-stroke: 1px transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 51px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: 2.31px;
+  margin-left: 45px;
+  text-align: center;
+  width: 167px;
+}
+
+.react-page .overlap-group2 {
+  height: 65px;
+  margin-left: 57px;
+  position: relative;
+  width: 115px;
+}
+
+.react-page .place {
+  -webkit-text-stroke: 1px transparent;
+  height: 51px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: right;
+  top: 13px;
+  width: 115px;
+}
+
+.react-page .icon-awesome-ethereum-1 {
+  height: 49px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.react-page .line-1-2 {
+  height: 3px;
+  margin-left: 0.48px;
+  margin-top: 5px;
+  object-fit: cover;
+  width: 583px;
+}
+
+.react-page .cta {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 53px;
+  min-height: 220px;
+  width: 587px;
+}
+
+.react-page .overlap-group1 {
+  align-self: flex-end;
+  border-radius: 10px;
+  height: 169px;
+  margin-right: 0;
+  position: relative;
+  width: 576px;
+}
+
+.react-page .overlap-group-3 {
+  border-radius: 10px;
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 576px;
+}
+
+.react-page .unflipped-box-2 {
+  background: linear-gradient(98.9deg, #340e42 -2.35%, #7c277c 34.63%, #621e67 63.02%, #340e42 102.14%);
+  border-radius: 10px;
+  display: flex;
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 576px;
+}
+
+.react-page .rectangle-172-2 {
+  background: linear-gradient(13.09deg, rgba(6, 8, 52, 0.91) -12.57%, rgba(40, 12, 56, 0.91) 92.98%);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  flex: 1;
+  margin-bottom: -2.5px;
+  margin-left: -2.5px;
+  margin-right: -2.5px;
+  margin-top: -2.5px;
+  opacity: 0.91;
+  width: 581px;
+}
+
+.react-page .rectangle-280 {
+  background-color: var(--cerulean);
+  height: 85px;
+  left: 37px;
+  position: absolute;
+  top: 42px;
+  width: 502px;
+}
+
+.react-page .place-1 {
+  -webkit-text-stroke: 1px transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-weight: 800;
+  height: 58px;
+  left: 38px;
+  letter-spacing: 2.25px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  width: 504px;
+}
+
+.react-page .make-sure-your-metam {
+  -webkit-text-stroke: 1px transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -8px;
+  margin-top: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 578px;
+}
+
+.react-page .whitelist-options {
+  -webkit-backdrop-filter: blur(4.32px) brightness(110.21%);
+  align-items: flex-start;
+  backdrop-filter: blur(4.32px) brightness(110.21%);
+  background-color: #1e7fa760;
+  display: flex;
+  height: 117px;
+  left: 0;
+  min-width: 1920px;
+  padding: 22px 169px;
+  position: absolute;
+  top: 180px;
+}
+
+.react-page .option01 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 377px;
+}
+
+.react-page .overlap-group {
+  border-radius: 10px;
+  height: 70px;
+  position: relative;
+  width: 377px;
+}
+
+.react-page .overlap-group-1 {
+  border-radius: 10px;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 377px;
+}
+
+.react-page .unflipped-box {
+  background: linear-gradient(95.66deg, #340e42 -3.71%, #7c277c 33.73%, #621e67 62.47%, #340e42 102.07%);
+  border-radius: 10px;
+  display: flex;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 377px;
+}
+
+.react-page .rectangle-172 {
+  background: linear-gradient(20.18deg, rgba(6, 8, 52, 0.91) 12.35%, rgba(40, 12, 56, 0.91) 80.74%);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  flex: 1;
+  margin-bottom: -2.5px;
+  margin-left: -2.5px;
+  margin-right: -2.5px;
+  margin-top: -2.5px;
+  opacity: 0.91;
+  width: 382px;
+}
+
+.react-page .first-250 {
+  height: 48px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.react-page .address {
+  height: 48px;
+  left: 186px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.react-page .icon-awesome-ethereum {
+  height: 49px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.react-page .option02 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 19px;
+  min-width: 387px;
+}
+
+.react-page .overlap-group2-1 {
+  border-radius: 10px;
+  height: 70px;
+  position: relative;
+  width: 387px;
+}
+
+.react-page .overlap-group-4 {
+  border-radius: 10px;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.react-page .unflipped-box-3 {
+  background: linear-gradient(95.52deg, #340e42 -3.76%, #7c277c 33.69%, #621e67 62.45%, #340e42 102.07%);
+  border-radius: 10px;
+  display: flex;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.react-page .rectangle-172-3 {
+  background: linear-gradient(20.67deg, rgba(6, 8, 52, 0.91) 13.65%, rgba(40, 12, 56, 0.91) 80.1%);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  flex: 1;
+  margin-bottom: -2.5px;
+  margin-left: -2.5px;
+  margin-right: -2.5px;
+  margin-top: -2.5px;
+  opacity: 0.91;
+  width: 392px;
+}
+
+.react-page .second-250 {
+  height: 48px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.react-page .x11-eth {
+  height: 48px;
+  left: 208px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.react-page .icon-awesome-ethereum-2 {
+  height: 49px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.react-page .option03 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 19px;
+  min-width: 377px;
+}
+
+.react-page .third-250 {
+  height: 48px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.react-page .x-eth {
+  height: 48px;
+  left: 191px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.react-page .option04 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 20px;
+  min-width: 377px;
+}
+
+.react-page .final-200 {
+  height: 48px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.react-page .icon-awesome-ethereum-3 {
+  height: 49px;
+  left: 324px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.react-page .footer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 3.0px;
+  margin-top: 101px;
+  min-height: 227px;
+  width: 647px;
+}
+
+.react-page .copyright-2022-lau {
+  letter-spacing: 0;
+  line-height: 71px;
+  margin-bottom: -39px;
+  margin-top: -20px;
+  min-height: 32px;
+  min-width: 647px;
+  white-space: nowrap;
+}
+
+.react-page .privacy-policy {
+  letter-spacing: 0;
+  line-height: 71px;
+  margin-bottom: -39px;
+  margin-top: 47px;
+  min-height: 32px;
+  min-width: 223px;
+  white-space: nowrap;
+}
+
+.react-page .terms-of-use {
+  letter-spacing: 0;
+  line-height: 71px;
+  margin-bottom: -39px;
+  margin-left: 1.0px;
+  margin-top: 27px;
+  min-height: 32px;
+  min-width: 196px;
+  white-space: nowrap;
+}
+
+.react-page .disclaimer {
+  letter-spacing: 0;
+  line-height: 71px;
+  margin-bottom: -39px;
+  margin-left: 1.0px;
+  margin-top: 27px;
+  min-height: 32px;
+  min-width: 166px;
+  text-align: center;
+  white-space: nowrap;
+}
