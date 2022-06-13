@@ -347,10 +347,11 @@ function App() {
                                         </button>
                                     </a>
                                 </div>
-                                <p className="text-white font-montserrat text-center mt-5 text-xs">
+                                <p className="text-white font-montserrat text-center mt-5 mb-5 text-xs">
                                     Make sure your metamask wallet is connected.
                                 </p>
                                 <CrossmintPayButton
+                                    className="mx-auto"
                                     collectionTitle="LaunchPub"
                                     collectionDescription="This token provides exclusive membership to the LaunchPub Genesis Syndicate and all the wonders that this amazing group provides.
 
