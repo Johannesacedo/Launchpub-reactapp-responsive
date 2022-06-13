@@ -10,7 +10,7 @@ function App() {
     const [mintAmount, setMintAmount] = useState(1);
     const [currentAccount, setCurrentAccount] = useState("");
     const [remainingSupply, setRemainingSupply] = useState("");
-    const [etherPrice, setEtherPrice] = useState(0);
+    const [etherPrice, setEtherPrice] = useState("1");
     const { ethereum } = window;
     const CONTRACT_ADDRESS = "0x64C7b0C0186484545F799A5CCBa55ad8bE548b93";
 
@@ -18,9 +18,16 @@ function App() {
         checkIfWalletIsConnected();
         fetchSupplyAndMintPrice();
     }, []);
-    ethereum.on("accountsChanged", function (accounts) {
-        connectWallet();
-    });
+
+    try {
+        if (ethereum) {
+            ethereum.on("accountsChanged", function(accounts){
+                connectWallet()
+            });
+        }
+    } catch (error) {
+        console.log(error);
+    }
 
     function handleMintAmountChange(n) {
         if (mintAmount + n > 0 && mintAmount + n < 4) {
@@ -40,7 +47,7 @@ function App() {
 
     const checkIfWalletIsConnected = async () => {
         if (!ethereum) {
-            alert("Make sure you have metamask!");
+            console.log("No wallet connected");
             return;
         } else {
             console.log("We have the ethereum object", ethereum);
@@ -62,7 +69,7 @@ function App() {
             const { ethereum } = window;
 
             if (!ethereum) {
-                alert("Get MetaMask!");
+                alert("Requires MetaMask - Alternatively buy with credit card!");
                 return;
             }
             /*
