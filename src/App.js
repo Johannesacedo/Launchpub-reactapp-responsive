@@ -64,7 +64,7 @@ function App(){
                         <div className="xl:col-span-6 col-span-12">
                             <div className="left-bg">
                                 <div className="bg-second p-10">
-                                    <img className="" src={require("./img/LaunchPub-NFT-Card.gif")} alt="" class="rounded-lg mb-4" />
+                                    <img className="" src={require("./img/LaunchPub_NFT_Card.gif")} alt=""/>
                                     <div className="grid grid-cols-12">
                                         <div className="lg:col-span-5 col-span-4">
                                             <p className="font-montserrat font-bold xl:text-3xl text-2xl text-pink">10,000</p>
