@@ -383,11 +383,11 @@ If this was simply a “mastermind”, membership could run as high as $30,000 p
                         </div>
                     </div>
                     <div className="col-span-12 text-center xl:mt-32 mt-16">
-                        <p className="text-gray font-bold font-montserrat xl:text-xl text-lg xl:mb-8 mb-5 link-footer">
+                        <p className="text-gray font-bold font-montserrat xl:text-xl text-lg xl:mb-8 mb-5">
                             Copyright © 2022 LAUNCHPUB | NFT Marketplace
                         </p>
                         <p className="text-gray font-bold font-montserrat xl:text-xl text-lg mb-3">
-                            <a href="https://launchpub.wpengine.com/privacy/" className="link-footer">
+                            <a href="https://launchpub.wpengine.com/privacy/">
                                 PRIVACY POLICY
                             </a>
                         </p>
