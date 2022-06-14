@@ -146,23 +146,27 @@ function App() {
                 id="launchpub"
             >
                 <div className="grid grid-cols-12 max-w-screen-xl mx-auto relative">
-                    <img
-                        className="a-bg-logo"
-                        src={require("./img/a-logo-1@1x.png")}
-                        alt=""
-                    />
-                    <div className="col-span-12">
+                    <a href="/">
                         <img
-                            className="mx-auto xl:max-w-md max-w-xs"
-                            src={require("./img/launchpub-logo-1x-png@1x.png")}
+                            className="a-bg-logo"
+                            src={require("./img/a-logo-1@1x.png")}
                             alt=""
                         />
+                    </a>
+                    <div className="col-span-12">
+                        <a href="/">
+                            <img
+                                className="mx-auto xl:max-w-md max-w-xs"
+                                src={require("./img/launchpub-logo-1x-png@1x.png")}
+                                alt=""
+                            />
+                        </a>
                         <h1 className="font-bold text-center xl:text-5xl text-3xl font-montserrat xl:mt-10 mt-4 text-blue">
                             Join the Genesis Syndicate Today!
                         </h1>
                         <p className="text-center text-white xl:text-2xl text-lg font-montserrat xl:mt-6 mt-4">
                             Membership to this exclusive club is extremely
-                            limited (2 Genesis Memberships per person)
+                            limited (3 Genesis Memberships per person)
                         </p>
                     </div>
                     <div className="col-span-12 bg-blue-transparent p-5 xl:mt-9 mt-5">
@@ -249,11 +253,12 @@ function App() {
                         <div className="grid grid-cols-12 max-w-5xl mx-auto">
                             <div className="xl:col-span-6 col-span-12">
                                 <div className="left-bg">
-                                    <div className="bg-second px-4 pb-4">
+                                    <div className="bg-second">
                                         <img
                                             className=""
-                                            src={require("./img/LaunchPub_NFT_Card.gif")}
+                                            src={require("./img/LaunchPub_NFTCard_1x1_600px.gif")}
                                             alt=""
+                                            style={{borderRadius: 10}}
                                         />
                                     </div>
                                 </div>

@@ -2,6 +2,7 @@
   "name": "launchpub-reactapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://launchpub.io/mint",
   "dependencies": {
     "@crossmint/client-sdk-react-ui": "^0.1.7-alpha.1",
     "@testing-library/jest-dom": "^5.16.4",
