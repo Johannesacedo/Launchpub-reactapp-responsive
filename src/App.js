@@ -142,7 +142,7 @@ function App() {
     return (
         <Fragment>
             <section
-                className="launchpub xl:pt-12 pt-8 xl:pb-20 pb-10 xl:px-0 px-5"
+                className="launchpub xl:pt-16 pt-8 xl:pb-20 pb-10 xl:px-0 px-5"
                 id="launchpub"
             >
                 <div className="grid grid-cols-12 max-w-screen-xl mx-auto relative">
@@ -154,14 +154,14 @@ function App() {
                         />
                     </a>
                     <div className="col-span-12">
-                        <a href="/">
-                            <img
-                                className="mx-auto xl:max-w-md max-w-xs"
-                                src={require("./img/launchpub-logo-1x-png@1x.png")}
-                                alt=""
-                            />
-                        </a>
-                        <h1 className="font-bold text-center xl:text-5xl text-3xl font-montserrat xl:mt-10 mt-4 text-blue">
+                            <a href="/">
+                                <img
+                                    className="xl:max-w-xl max-w-xs mx-auto"
+                                    src={require("./img/launchpub-logo-1x-png@1x.png")}
+                                    alt=""
+                                />
+                            </a>
+                        <h1 className="font-bold text-center xl:text-5xl text-3xl font-montserrat xl:mt-10 mt-3 text-blue">
                             Join the Genesis Syndicate Today!
                         </h1>
                         <p className="text-center text-white xl:text-2xl text-lg font-montserrat xl:mt-6 mt-4">
@@ -383,11 +383,11 @@ If this was simply a “mastermind”, membership could run as high as $30,000 p
                         </div>
                     </div>
                     <div className="col-span-12 text-center xl:mt-32 mt-16">
-                        <p className="text-gray font-bold font-montserrat xl:text-xl text-lg xl:mb-8 mb-5">
+                        <p className="text-gray font-bold font-montserrat xl:text-xl text-lg xl:mb-8 mb-5 link-footer">
                             Copyright © 2022 LAUNCHPUB | NFT Marketplace
                         </p>
                         <p className="text-gray font-bold font-montserrat xl:text-xl text-lg mb-3">
-                            <a href="https://launchpub.wpengine.com/privacy/" className="">
+                            <a href="https://launchpub.wpengine.com/privacy/" className="link-footer">
                                 PRIVACY POLICY
                             </a>
                         </p>
