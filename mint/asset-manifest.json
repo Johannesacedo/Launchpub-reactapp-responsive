@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mint/static/css/main.79a8b54f.css",
-    "main.js": "/mint/static/js/main.a0767ca8.js",
+    "main.css": "/mint/static/css/main.1bfaee36.css",
+    "main.js": "/mint/static/js/main.51015f7a.js",
     "static/media/LaunchPub_NFTCard_1x1_600px.gif": "/mint/static/media/LaunchPub_NFTCard_1x1_600px.3594afbef5b0b9a6ed72.gif",
     "static/media/a-logo-1@1x.png": "/mint/static/media/a-logo-1@1x.9d364f746e812574a832.png",
     "static/media/launchpub-logo-1x-png@1x.png": "/mint/static/media/launchpub-logo-1x-png@1x.7a326bfbe904df26faa6.png",
     "index.html": "/mint/index.html",
-    "main.79a8b54f.css.map": "/mint/static/css/main.79a8b54f.css.map",
-    "main.a0767ca8.js.map": "/mint/static/js/main.a0767ca8.js.map"
+    "main.1bfaee36.css.map": "/mint/static/css/main.1bfaee36.css.map",
+    "main.51015f7a.js.map": "/mint/static/js/main.51015f7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.79a8b54f.css",
-    "static/js/main.a0767ca8.js"
+    "static/css/main.1bfaee36.css",
+    "static/js/main.51015f7a.js"
   ]
 }

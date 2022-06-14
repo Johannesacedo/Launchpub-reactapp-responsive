@@ -378,6 +378,7 @@ If this was simply a “mastermind”, membership could run as high as $30,000 p
                                         _count: "1",
                                     }}
                                 />
+                                <p className="disclaimer font-bold mt-3 font-weight-bold text-white text-center font-montserrat">*Limit one transaction per person when using Credit Card</p>
                             </div>
                         </div>
                     </div>
